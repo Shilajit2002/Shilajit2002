@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shilajit2002](https://github.com/Shilajit2002)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **shilajit.acharjee@gmail.com**
 
