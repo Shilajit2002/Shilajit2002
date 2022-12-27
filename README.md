@@ -1,4 +1,4 @@
-[![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)]
+![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)
 <h1 align="center">Hi 👋, I'm Shilajit Acharjee</h1>
 <h3 align="center">Full Stack Web Developer, Competitive Programmer , GDSC Core Member</h3>
 <img align="right" width="400" alt="coding" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"/>
