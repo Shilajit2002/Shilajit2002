@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shilajit.acharjee@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UqeFhXbMOW0RfDIPAoC9n-AP_lL_E3ot/view?usp=sharing](https://drive.google.com/file/d/1UqeFhXbMOW0RfDIPAoC9n-AP_lL_E3ot/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15-EVEBXk9DgB7s8FgTUpbsp2PhDCSXLj/view?usp=share_link](https://drive.google.com/file/d/15-EVEBXk9DgB7s8FgTUpbsp2PhDCSXLj/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
