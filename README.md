@@ -4,7 +4,7 @@
 <img align="right" width="400" alt="coding" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"/>
 
 - 🔭 I,m currently doing **B.Tech in Computer Science & Engineering**
-- 🌱 I’m currently learning **MERN Stack, AI/ML**
+- 🌱 **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shilajit2002](https://github.com/Shilajit2002)
 
