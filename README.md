@@ -69,11 +69,15 @@ Multi-tenant e-commerce ecosystem serving 20,000+ merchants with online store cr
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shilajit2002&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shilajit2002&show_icons=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shilajit2002&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shilajit2002&layout=compact" />
+</p>
 
 ---
 
