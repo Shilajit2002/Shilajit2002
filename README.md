@@ -1,33 +1,86 @@
-![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)
 <h1 align="center">Hi 👋, I'm Shilajit Acharjee</h1>
-<h3 align="center">Full Stack Web Developer, Competitive Programmer , GDSC Core Member</h3>
-<img align="right" width="400" alt="coding" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"/>
 
-- 🔭 I,m currently doing **B.Tech in Computer Science & Engineering**
-- 🌱 **Full Stack Developer**
+<h3 align="center">
+Full Stack Software Developer | React.js | Node.js | .NET | SQL Server | MongoDB | Azure DevOps
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shilajit2002](https://github.com/Shilajit2002)
-
-- 💬 Ask me about **JAVA**
-
-- 📫 How to reach me **shilajit.acharjee@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15-EVEBXk9DgB7s8FgTUpbsp2PhDCSXLj/view?usp=share_link](https://drive.google.com/file/d/15-EVEBXk9DgB7s8FgTUpbsp2PhDCSXLj/view?usp=share_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/shilajit-acharjee-084960216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shilajit-acharjee-084960216" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shilajit2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shilajit2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shilajit_acharj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shilajit_acharj1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shilajit2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shilajit2002" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shilajit.acharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shilajit.acharjee" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shilajitacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shilajitacharjee" height="30" width="40" /></a>
+<p align="center">
+🏗️ Developed enterprise analytics platforms serving 40,000+ users with role-based access control and Power BI integration
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shilajit2002&show_icons=true&locale=en&layout=compact" alt="shilajit2002" /></p>
+## 🚀 About Me
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shilajit2002&show_icons=true&locale=en" alt="shilajit2002" /></p>
+- 💼 Assistant System Engineer at TCS
+- 💻 Full Stack Developer with experience in React.js, Node.js, .NET, SQL Server, and MongoDB
+- 🏗️ Building enterprise-grade applications serving 40,000+ users
+- 🌱 Currently exploring System Design, Microservices, and Cloud Technologies
+- 📫 Reach me at: **shilajit.acharjee@gmail.com**
 
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+React.js • React Native • Angular • Redux • Next.js • HTML • CSS • Tailwind CSS
+
+### Backend
+Node.js • Express.js • NestJS • .NET • REST APIs
+
+### Databases
+MongoDB • PostgreSQL • SQL Server • Supabase
+
+### DevOps & Tools
+Azure DevOps • Git • GitHub Actions • CI/CD
+
+### Programming Languages
+JavaScript • Java • Python • C#
+
+---
+
+## 💼 Experience
+
+### Tata Consultancy Services (TCS)
+Assistant System Engineer | Oct 2024 - Present
+
+- Developed enterprise analytics platform serving 40,000+ users
+- Implemented RBAC, user provisioning, dynamic menu management, and Power BI integration
+- Managed end-to-end development, testing, deployment, and production support using Azure DevOps
+
+### Aarhat IServ LLP
+Full Stack Developer | Apr 2024 - Sep 2024
+
+- Built ERP, CRM, E-Commerce, and EdTech solutions using MERN and MEAN stacks
+- Developed responsive UIs, REST APIs, and scalable database architectures
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Bookphilic E-Commerce Platform
+MERN-based e-commerce platform with Admin, Seller, and Customer portals, authentication, RBAC, payment integration, inventory management, and order tracking.
+
+### 📊 Enterprise Analytics Platform
+Role-based analytics platform serving 40,000+ users with Power BI integration, dynamic authorization, and enterprise-scale access management.
+
+### 🏪 SaaS Commerce Platform
+Multi-tenant e-commerce ecosystem serving 20,000+ merchants with online store creation, social-commerce integrations, and merchant management.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shilajit2002&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shilajit2002&layout=compact)
+
+---
+
+## 🔗 Connect With Me
+
+- LinkedIn: [www.linkedin.com/in/shilajitacharjee-084960216](https://www.linkedin.com/in/shilajit-acharjee-084960216/)
+- GitHub: [github.com/Shilajit2002](https://github.com/Shilajit2002/)
+- Email: shilajit.acharjee@gmail.com
+
+---
